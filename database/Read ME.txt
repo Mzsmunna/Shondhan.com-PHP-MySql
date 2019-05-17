@@ -1,0 +1,1 @@
+import the sql file from XAMPP PHP MY ADMIN!
